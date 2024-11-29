@@ -17,6 +17,6 @@ function nextSlide() {
   showSlide(currentIndex);
 }
 
-// Initialize the first slide and start the interval
 showSlide(currentIndex);
 setInterval(nextSlide, 4000);
+
