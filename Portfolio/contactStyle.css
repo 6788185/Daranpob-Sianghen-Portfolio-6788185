@@ -90,7 +90,7 @@ footer a {
 }
 
 .rainbow-text {
-  font-size: 2.75rem; /* Adjust the size as needed */
+  font-size: 2.75rem;
   background: linear-gradient(75deg, red, orange, green, blue, indigo, violet);
   background-size: 200% 100%;
   -webkit-background-clip: text;
@@ -108,27 +108,27 @@ footer a {
 }
 
 .contact-icons img {
-  width: 4rem; /* Adjust as needed */
+  width: 4rem;
   height: auto;
-  margin: 0 1.5rem; /* Adjust spacing */
+  margin: 0 1.5rem;
 }
 
 .social-icons {
   display: flex;
-  justify-content: center; /* Centers the icons horizontally */
-  align-items: center; /* Aligns icons vertically */
-  margin-top: 20px; /* Space above the icons */
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
 }
 
 .social-icons a {
-  font-size: 2rem; /* Adjust icon size */
-  color: #0078d7; /* Default icon color */
+  font-size: 2rem;
+  color: #0078d7;
   text-decoration: none;
-  margin: 0 20px; /* Adds space between icons */
-  transition: transform 0.3s, color 0.3s; /* Hover effect */
+  margin: 0 20px;
+  transition: transform 0.3s, color 0.3s;
 }
 
 .social-icons a:hover {
-  color: #00bfff; /* Change color on hover */
-  transform: scale(1.2); /* Slightly enlarge icon on hover */
+  color: #00bfff;
+  transform: scale(1.2);
 }
